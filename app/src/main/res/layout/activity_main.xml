@@ -37,7 +37,7 @@
         tools:srcCompat="@drawable/pic" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/workexperiencebutton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
@@ -45,14 +45,14 @@
         android:text="@string/work_experience" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/skillset_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:text="Skill Set" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/call_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
@@ -60,7 +60,7 @@
         android:text="@string/call" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/emailbutton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"

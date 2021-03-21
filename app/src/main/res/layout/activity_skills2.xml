@@ -24,7 +24,7 @@
         tools:layout_editor_absoluteY="102dp" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName3"
+        android:id="@+id/additems"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -45,6 +45,7 @@
         android:background="?android:attr/listDivider" />
 
     <ListView
+        android:id="@+id/listView"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

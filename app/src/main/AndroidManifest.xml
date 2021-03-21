@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TheResume">
-        <activity android:name=".Skills2"></activity>
+        <activity
+            android:name=".Skills_1"
+            android:label="@string/title_activity_skills_1"
+            android:theme="@style/Theme.TheResume.NoActionBar"></activity>
+        <activity android:name=".Skills2" />
         <activity android:name=".WorkExpActivity2" />
         <activity android:name=".MainActivity">
             <intent-filter>
