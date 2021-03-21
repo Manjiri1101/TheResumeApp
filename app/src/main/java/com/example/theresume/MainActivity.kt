@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
 
         val callTab = findViewById<Button>(R.id.call_button)
         callTab.setOnClickListener {
-            var phone = Uri.parse("tel:9494495647");
+            var phone = Uri.parse("tel:100010001");
             var callIntent = Intent(Intent.ACTION_DIAL,phone);
             startActivity(callIntent)
         }

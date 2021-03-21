@@ -9,18 +9,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TheResume">
-        <activity
-            android:name=".Skills_1"
-            android:label="@string/title_activity_skills_1"
-            android:theme="@style/Theme.TheResume.NoActionBar"></activity>
-        <activity android:name=".Skills2" />
-        <activity android:name=".WorkExpActivity2" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".splash" android:theme="@style/splashScreenTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".Skills_1"
+            android:label="@string/title_activity_skills_1"
+            android:theme="@style/Theme.TheResume.NoActionBar" />
+        <activity android:name=".Skills2" />
+        <activity android:name=".WorkExpActivity2" />
+        <activity android:name=".MainActivity">
+
         </activity>
     </application>
 
