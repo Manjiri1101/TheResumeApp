@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheResume</string>
+    <string name="manjiri_kadam">Manjiri Kadam</string>
+    <string name="call">Call</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="email">Email</string>
+
+    <string name="write_skills">Write Skills</string>
+    <string name="skills">Skills</string>
+    <string name="add_skills">Add Skills</string>
+</resources>
