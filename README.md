@@ -7,5 +7,6 @@ Requirements:
 - At least three pages of view (three different scenes)
 
 Please see the demo link of the application here
-[Video](https://studio.youtube.com/video/lgdNASe8OUE/edit)
+[Video](https://youtu.be/lgdNASe8OUE)
 
+Thank You
